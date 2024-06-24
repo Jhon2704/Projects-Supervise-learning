@@ -1,0 +1,3 @@
+After processing the images, based on the extracted characteristics, we can deduce that the second image corresponds to cancerous tissue, while the first one is healthy tissue. 
+
+We draw this conclusion by comparing three main characteristics that define the shape of cancerous and healthy lumens. The first is the area, as cancerous tissues have a much smaller area than healthy ones. The second characteristic is solidity, since healthy tissue has lumens that are more fusiform in shape compared to cancerous ones. The final characteristic that helped us determine which tissue was healthy is compactness, as cancerous tissues have a much more rounded shape than healthy tissues.
